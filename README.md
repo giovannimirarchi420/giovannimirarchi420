@@ -26,13 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannimirarchi420&count_private=true&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannimirarchi420&layout=compact&theme=github_dark)
-
----
-
 ## 🛠️ Skills & Tools
 
 - **Languages:** Python, Java, C, Bash, JavaScript, Rust
