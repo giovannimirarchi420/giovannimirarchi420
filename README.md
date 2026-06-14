@@ -31,7 +31,7 @@
 - **Languages:** Python, Java, C, Bash, JavaScript, Rust
 - **Full Stack:** Backend & Frontend Development, REST APIs, UI/UX, Requirement Analysis
 - **Cloud & DevOps:** Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), Linux, Virtualization, Monitoring (Grafana, Prometheus, Loki)
-- **AI & Data:** LangChain, OpenAI API, RAG systems, Chatbots
+- **AI & Data:** LangChain, LangGraph, RAG systems, Chatbots, Agents
 - **Other:** OS Programming, Networking, Scripting
 
 ---
