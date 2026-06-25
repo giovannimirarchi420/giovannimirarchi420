@@ -6,7 +6,7 @@
 
 - 🏦 **Software Engineer** since 2021, with hands-on experience in designing, developing, and maintaining large-scale banking systems.
 - 🌐 **Full Stack/DevOps Engineer**: Capable of following a project end-to-end — from requirement gathering to developing backend & frontend, all the way to shipping in production.
-- 🎓 Currently completing my MSc in Computer Engineering (Computer Networks & Cloud Computing) at [Politecnico di Torino](https://www.polito.it/), strengthening my expertise in **Cloud technologies**, **CI/CD**, **Kubernetes**, **Containerization & Virtualization**, **OS Programming**, and more.
+- 🎓 MSc in Computer Engineering (Computer Networks & Cloud Computing) at [Politecnico di Torino](https://www.polito.it/)
 - 💡 Passionate about all things tech — from low-level programming to the latest **AI trends**.
 - 🤖 Experienced in building LLM-based applications such as RAG systems, chatbots, and intelligent automations, using frameworks like **LangChain**.
 - 🔥 Always eager to learn, script, and experiment with cutting-edge technology.
